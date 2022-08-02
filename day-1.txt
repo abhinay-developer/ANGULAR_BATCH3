@@ -1,0 +1,66 @@
+    SOFTWARE OVERVIEW
+    =================
+                                     8hrs
+       1 Month (8hrs)             (2/3 Months)    (3/4 months)            (1 Month/2months)  (4 -5 months) 
+
+     1.UI Devlopers             2.UX Devlopers   3.FULL STACK Developers  4.Testing    5.Devops  6.Backend 
+
+                                                1.HTML                     MANUAL       MAVEN     JAVA
+       i)   HTML                i)ADOBE XD      2.CSS                      AUTOMATION   JENKINS   PYTHON
+       ii)  CSS                 ii)Photoshop    3.JS                                    KUBERNETES .NET 
+       iii) JS                  iii)HTML,CSS    4.Bootstrap                             GIT        NODE JS
+       iv)  TS                                  5.Angular/React/VueJS                   LINUX
+       v)   Boostrap                            6.Backend(Java/Python/.NET/Node Js)     DOCKER
+       vi)  Angular/React/VueJS                 7.Database (Oracle/MYSQL/MONGO DB/COUCH DB) PROMOTHEOUS
+                                                                                            ANSIBLE
+
+    
+   7.DB Developers             MERN   MEAN   
+                               MONGODB,EXPRESS JS REACT JS NODEJS
+      SQL                      MONGODB,EXPRESS JS ANGULAR  NODE JS
+      PL/SQL                   PYTHON MONGODB ANGULAR /REACT
+      ORACLE                   ANGULAR/REACT (JAVA)  CORE +ADVANCE +SPRINGBOOT+HIBERNATE+WEBSERVICES
+      MYSQL
+      MONGODB  
+   2 months                     3-4 Months
+
+
+      CLIENTS
+  
+   (BANKING APPLICATION)           
+      SBI====>                    TCS     DEVELOPERS  
+                                            UI   5
+                                            UX   2
+                                            BACKEND 5
+                                            QA/TESTING  4
+                                            BUSINESS ANALYST2
+                                            TL 2
+                                            MANAGER 1
+                                            HRBP/HR 2
+                                            DELIVERY MANAGER 1
+                                            CLIENT SERVICES MANAGER 
+                                            VICE PRESIDENT
+                                            PRESEDIENT
+                                            CEO
+
+
+               ( SAI  OWNER)       ==> TATA==>PRESIDENT==>VICE PRISENDENT ==>   
+
+               BA===REQUIEMNET GATHERING  (CLIENT INPUTS)====>DOCUMENT===>MANAGER===>
+                                                              EPIC===>STORY==>SUB TASK
+        
+
+   SBI PROJECT        PAYEMENTS / WITHDRAW   /UPDATES 
+
+
+
+
+
+
+
+
+
+
+
+
+
