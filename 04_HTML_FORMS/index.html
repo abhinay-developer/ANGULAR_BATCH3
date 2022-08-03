@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTML FORMS</title>
+</head>
+
+<body>
+    <h1>HTML FORMS</h1>
+    <!-- simple text-->
+    <form>
+        <div>
+            <!-- DIVISION TAG IS USED TO SEPERATE THE ELEMENT-->
+            <label>First Name</label>
+            <input type="text" name="firstName" id="firstName" placeholder="enter firstname" 
+             maxlength="10" minlength="5"
+            />
+        </div>
+        <div>
+            <label>Last Name</label>
+            <input type="text" name="lastName" id="lastName" />
+        </div>
+        <!-- Email-->
+        <div>
+            <label>Email</label>
+            <input type="email" name="email" id="email" />
+        </div>
+        <!-- password-->
+        <div>
+            <label>Password</label>
+            <input type="password" name="password" id="password" />
+        </div>
+        <!-- number-->
+        <div>
+            <label>Mobile Nummber</label>
+            <input type="number" name="mobileNumber" id="mobileNumber" />
+        </div>
+        <!-- textarea-->
+        <div>
+            <label>Address</label>
+            <textarea name="address" id="address" cols=40" rows="5"></textarea>
+        </div>
+        <!-- Radio Buttons-->
+        <div>
+            <label>Gender</label>
+            <input type="radio" name="gender" id="male" value="male" checked><label>MALE</label>
+            <input type="radio" name="gender" id="female" value="female"><label>FEMALE</label>
+        </div>
+        <!-- Checkboxes -->
+        <div>
+            <label>Languages Known</label>
+            <input type="checkbox" id="java" name="java"><label>JAVA</label>
+            <input type="checkbox" id="css" name="css"><label>CSS</label>
+            <input type="checkbox" id="js" name="js"><label>JS</label>
+        </div>
+        <div>
+            <label>Search</label>
+            <input type="search" id="search" name="search">
+        </div>
+        <div>
+            <label>Date Picker</label>
+            <input type="date" id="date" name="date">
+        </div>
+        <div>
+            <label>Price</label>
+            <input type="range" id="range" name="price">
+        </div>
+        <div>
+            <label>Color</label>
+            <input type="color" id="color" name="color">
+        </div>
+        <div>
+            <label>Upload Aadhar</label>
+            <input type="file" id="aadhar" name="aadhar">
+        </div>
+        <div>
+            <button type="button">SAVE</button>
+            <button type="RESET">RESET</button>
+        </div>
+    </form>
+</body>
+
+</html>
