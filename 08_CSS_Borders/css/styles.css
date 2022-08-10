@@ -1,0 +1,25 @@
+.title {
+    background-color: blanchedalmond;
+    border-left: 10px solid red;
+    border-bottom: 20px solid green;
+    border-top: 20px solid pink;
+    border-right: 20px solid violet;
+    padding: 10px;
+    margin: 0px;
+}
+
+li {
+    padding: 12px;
+    background: red;
+    margin-top: 10px;
+    border-left: 10px solid green;
+
+}
+
+li:hover {
+    background-color: goldenrod
+}
+
+ul {
+    list-style-type: none;
+}
